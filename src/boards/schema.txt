@@ -1,0 +1,9 @@
+Description of the scheme, according to which hardcoded boards are stored.
+
+integer n   //denoting size of side of board - note that currently 3 sizes are supported
+n lines of n integers separated by ' '  //denoting initial values on the board (-1 if blank field)
+integer m   //denoting number of components
+m lines of various length series of integers
+//beginning with integer denoting length of current series
+//each line denotes one component
+//containing ids of belonging fields (id is x*n + y)

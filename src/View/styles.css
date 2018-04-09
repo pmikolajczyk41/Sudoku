@@ -1,0 +1,44 @@
+.text-field0 {
+    -fx-background-color: "FFFFCC";
+}
+.text-field1 {
+    -fx-background-color: "FFCCFF";
+}
+.text-field2 {
+    -fx-background-color: "CCFFCC";
+}
+.text-field3 {
+    -fx-background-color: "FFFF66";
+}
+.text-field4 {
+    -fx-background-color: "33FFFF";
+}
+.text-field5 {
+    -fx-background-color: "CC9966";
+}
+.text-field6 {
+    -fx-background-color: "CCCC33";
+}
+.text-field7 {
+    -fx-background-color: "CC66FF";
+}
+.text-field8 {
+    -fx-background-color: "66FF66";
+}
+
+.text-fieldeasy{
+    -fx-font-size: 40;
+}
+
+.text-fieldmedium{
+    -fx-font-size: 28;
+}
+
+.text-fieldhard{
+    -fx-font-size: 18;
+}
+
+.text-fieldall{
+    -fx-border-color: black;
+    -fx-border-width: 1;
+}
